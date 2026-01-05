@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DevOps Roadmap</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>DevOps Roadmap</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>What is DevOps?</h2>
+      <p>DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the development lifecycle and deliver high-quality software continuously.</p>
+    </section>
+
+    <section class="roadmap">
+      <h2>Learning Roadmap</h2>
+      <ol>
+        <li><strong>Beginner:</strong> Learn Linux basics, Git, and scripting.</li>
+        <li><strong>Intermediate:</strong> Understand CI/CD, Docker, and cloud platforms.</li>
+        <li><strong>Advanced:</strong> Master Kubernetes, monitoring, and infrastructure as code.</li>
+        <li><strong>Pro:</strong> Focus on scaling, security, and automation at enterprise level.</li>
+      </ol>
+    </section>
+
+    <section class="resources">
+      <h2>Resources</h2>
+      <ul>
+        <li><a href="https://roadmap.sh/devops">DevOps Roadmap</a></li>
+        <li><a href="https://docs.docker.com/">Docker Docs</a></li>
+        <li><a href="https://kubernetes.io/docs/">Kubernetes Docs</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/devops/">Microsoft DevOps Learning</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 DevOps Roadmap Project</p>
+  </footer>
+</body>
+</html>
